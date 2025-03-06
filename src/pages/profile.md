@@ -17,7 +17,7 @@ featuredImage:
   alt: Mr. Acquaviva earned his BA in political science at Seton Hall University
     magna cum laude
   caption: null
-connectWithMe: Connect with me
+connectWithMe: Residential and Commercial
 pageContent: >-
   # Heading line here
 
@@ -61,7 +61,7 @@ subheader: null
 blogButton:
   label: Home
   link: /
-discoverConnectExplore: Discover, Connect & Explore
+discoverConnectExplore: Real Estate Law Professional
 longBiography_MD: |
   {{long_biography}}
 ---
