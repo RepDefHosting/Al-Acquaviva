@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: "Al Acquaviva "
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/lawyerhero1.png
   alt: Hero Image for home page
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: A former New Jersey Lawyer of the Year for Passaic County, Al
+  Acquaviva has an extensive background in residential and commercial real
+  estate law.
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+A former New Jersey Lawyer of the Year for Passaic County, Al Acquaviva has an extensive background in residential and commercial real estate law. He represents clients in land use and zoning cases, and meets the needs of public and private corporate boards. Al Acquaviva excels in chancery and civil litigation, as well as family law and personal injury matters. His knowledge extends to insurance defense and foreclosures related to REM taxes and condemnations.
